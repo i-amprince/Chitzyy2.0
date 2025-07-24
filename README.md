@@ -1,4 +1,4 @@
-# Chitizyy - Real-Time Full-Stack Chat Application
+# Chitizyy - Real-Time Full-Stack Chat Application (https://chitzyy2-0.vercel.app/chat)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
