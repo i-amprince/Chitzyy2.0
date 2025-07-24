@@ -26,15 +26,15 @@ Chitizyy is a modern, feature-rich chat application built with the MERN stack (M
 
 | Login Page | Chat Interface |
 |------------|---------------|
-| ![Login](src/images/1.png) | ![Chats](src/images/2.png) |
+| ![Login](frontend/src/images/1.png) | ![Chats](frontend/src/images/2.png) |
 
 | Profile View | Create Group |
 |--------------|-------------|
-| ![Profile](src/images/3.png) | ![Create Group](src/images/4.png) |
+| ![Profile](frontend/src/images/3.png) | ![Create Group](frontend/src/images/4.png) |
 
 | Group Chat | Call Interface |
 |------------|---------------|
-| ![Group Chat](src/images/5.png) | ![Call Interface](src/images/6.png) |
+| ![Group Chat](frontend/src/images/5.png) | ![Call Interface](frontend/src/images/6.png) |
 
 </details>
 
